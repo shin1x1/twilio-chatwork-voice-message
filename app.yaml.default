@@ -1,0 +1,11 @@
+application: your-app-name
+version: 1
+runtime: php
+api_version: 1
+
+handlers:
+  - url: /recorder.php
+    script: recorder.php
+
+  - url: /.*
+    script: index.php

@@ -1,0 +1,7 @@
+{
+    "chatwork": {
+        "room_id" : "your room id",
+        "api_token": "your api token"
+    }
+}
+

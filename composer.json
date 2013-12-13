@@ -1,0 +1,7 @@
+{
+  "require": {
+    "twilio/sdk": "dev-master"
+  }
+}
+
+
