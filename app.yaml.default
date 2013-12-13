@@ -5,7 +5,7 @@ api_version: 1
 
 handlers:
   - url: /recorder.php
-    script: recorder.php
+    script: web/recorder.php
 
   - url: /.*
-    script: index.php
+    script: web/index.php
