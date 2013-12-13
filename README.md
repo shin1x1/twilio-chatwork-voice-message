@@ -30,7 +30,7 @@ $ cp -a config.json.default config.json
 ```json
 {
     "chatwork": {
-        "room_id" : "9999999999",
+        "room_id" : "your room id",
         "api_token": "your api token"
     }
 }
